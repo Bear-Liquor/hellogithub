@@ -27,4 +27,4 @@ proguard/
 *.log
 
 # Local idea file
-.idea/
+idea/
