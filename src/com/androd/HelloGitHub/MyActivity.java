@@ -13,6 +13,7 @@ public class MyActivity extends Activity {
 		setContentView(R.layout.main);
 		System.out.println("马上测试");
 		System.out.println("First Test");
+		System.out.println("First Test");
 		System.out.println("Second Test");
 	}
 }
