@@ -12,5 +12,6 @@ public class MyActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
 		System.out.println("马上测试");
+		System.out.println("First Test");
 	}
 }
