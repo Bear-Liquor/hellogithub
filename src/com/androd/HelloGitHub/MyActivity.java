@@ -1,6 +1,7 @@
 package com.androd.HelloGitHub;
 
 import android.app.Activity;
+import android.graphics.BitmapFactory;
 import android.os.Bundle;
 
 public class MyActivity extends Activity {
@@ -14,6 +15,9 @@ public class MyActivity extends Activity {
 		System.out.println("马上测试");
 		System.out.println("First Test");
 		System.out.println("First Test");
+		System.out.println("First Test");
 		System.out.println("Second Test");
+		BitmapFactory.Options options = new BitmapFactory.Options();
+		options.
 	}
 }
